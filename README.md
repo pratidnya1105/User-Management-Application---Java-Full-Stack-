@@ -66,6 +66,7 @@ The server will boot up and listen for requests at `http://localhost:8080`.
 * `PUT /api/users/{id}` — Modify an existing user profile
 * `DELETE /api/users/{id}` — Erase a user profile
 
-##Result od the project
+## Output of the project
 
-"C:\Users\HP\Downloads\collage (1).png"
+<img width="1197" height="897" alt="image" src="https://github.com/user-attachments/assets/d79c0179-2387-4a1a-bd75-00c38b2446cd" />
+
