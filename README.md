@@ -6,24 +6,7 @@ A complete, full-stack User Management application. This project features a modu
 
 ## 📁 Repository Directory Structure
 
-
-├── user-frontend/                 # React Frontend Application
-│   ├── public/                    # Static assets and index.html
-│   └── src/                       # Main application source code
-│       ├── layout/                # Global layout components
-│       ├── pages/                 # Page-level view components
-│       ├── users/                 # User-specific functional modules
-│       ├── App.js                 # Root component
-│       └── index.js               # Entry point
-│
-└── userManagment/                 # Spring Boot Backend REST API
-    ├── src/main/java/com/demo/    # Java backend source code
-    │   ├── controller/            # API endpoints & HTTP request mapping
-    │   ├── exception/             # Custom global error handling definitions
-    │   ├── model/                 # Data entities & database schemas
-    │   └── repository/            # Database access layer (Data interfaces)
-    ├── pom.xml                    # Maven project configuration file
-    └── README.md                  # Development notes
+<img width="797" height="605" alt="image" src="https://github.com/user-attachments/assets/29c7985a-df9d-4349-a34d-b5e5d23c6987" />
 
 
 ---
