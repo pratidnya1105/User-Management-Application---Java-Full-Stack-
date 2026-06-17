@@ -65,3 +65,7 @@ The server will boot up and listen for requests at `http://localhost:8080`.
 * `POST /api/users` — Add a new user profile
 * `PUT /api/users/{id}` — Modify an existing user profile
 * `DELETE /api/users/{id}` — Erase a user profile
+
+##Result od the project
+
+"C:\Users\HP\Downloads\collage (1).png"
