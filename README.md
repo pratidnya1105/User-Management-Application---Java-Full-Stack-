@@ -60,11 +60,13 @@ The server will boot up and listen for requests at `http://localhost:8080`.
 ---
 
 ## 🔌 Primary REST API Endpoints
+
 * `GET /api/users` — Retrieve all users
 * `GET /api/users/{id}` — Retrieve details of a specific user
 * `POST /api/users` — Add a new user profile
 * `PUT /api/users/{id}` — Modify an existing user profile
 * `DELETE /api/users/{id}` — Erase a user profile
+
 
 ## Output of the project
 
